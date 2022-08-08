@@ -89,6 +89,10 @@ I found that 24.37% of children deaths were alcohol related and 252 of the 302 w
 
 ### Data Visualization
 
+![N4WvY-fatal-vehicular-accident-victims-by-age-groups](https://user-images.githubusercontent.com/109833009/183457554-0a56b6f5-e10c-475e-817b-b811c293220f.png)
+
+
+
 
 
 ![Jz6us--span-style-font-family-arial-font-size-16px-text-align-center-white-space-pre-wrap-background-color-rgb-250-251-254-people-killed-by-age-group-and-highest-driver-blood-alcohol-concentration-bac-in-the-crash-](https://user-images.githubusercontent.com/109833009/183457453-7f08edbe-b05d-4674-8422-be27be66343b.png)
