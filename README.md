@@ -15,6 +15,9 @@ In 2019, there was 1239 deaths of children between <5-15 years old. The data for
 
 #### Q1: What % of all vehicular accidents were children
 
+<img width="398" alt="q1sheet" src="https://user-images.githubusercontent.com/109833009/183455474-a67b48bc-81e7-4d7f-9f11-ebbba31e3d13.PNG">
+
+
 First,  I unmerged cells and took only relevant date, which was age groups that I wanted (3) of them.
 
 Summed the 3 total groups (=sum B2:B4)
@@ -26,6 +29,13 @@ Divided by total number of deaths w/ age groups
 Used % function to turn .0341 to 3.41%
 
 Answer: 3.41% children (1239 deaths) 
+
+
+
+<img width="225" alt="question1_howtoexcel" src="https://user-images.githubusercontent.com/109833009/183455542-0c7b9efe-11e1-4d00-a1d2-2f853f34ffd0.PNG">
+
+
+
 
 
 
