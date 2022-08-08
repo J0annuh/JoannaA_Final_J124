@@ -73,6 +73,11 @@ I found that 24.37% of children deaths were alcohol related and 252 of the 302 w
 
 ####  Q3:
 
+<img width="668" alt="q3sheet" src="https://user-images.githubusercontent.com/109833009/183457173-7fe2c657-71e5-4841-9723-84549fadacb1.PNG">
+
+
+
+<img width="677" alt="q3howto" src="https://user-images.githubusercontent.com/109833009/183457223-d3dcfc2f-7530-46b4-95c8-100f342274bf.PNG">
 
 
 
@@ -83,3 +88,8 @@ I found that 24.37% of children deaths were alcohol related and 252 of the 302 w
 
 
 ### Data Visualization
+
+
+
+![Jz6us--span-style-font-family-arial-font-size-16px-text-align-center-white-space-pre-wrap-background-color-rgb-250-251-254-people-killed-by-age-group-and-highest-driver-blood-alcohol-concentration-bac-in-the-crash-](https://user-images.githubusercontent.com/109833009/183457453-7f08edbe-b05d-4674-8422-be27be66343b.png)
+
