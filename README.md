@@ -15,12 +15,30 @@ In 2019, there was 1239 deaths of children between <5-15 years old. The data for
 
 #### Q1: What % of all vehicular accidents were children
 
+First,  I unmerged cells and took only relevant date, which was age groups that I wanted (3) of them
+Summed the 3 total groups (=sum B2:B4)
+Divided by total number of deaths w/ age groups 
+=(B16/B14)
+Used % function to turn .0341 to 3.41%
+Answer: 3.41% children (1239 deaths) 
+
+
+
+
+##### Q2:
 
 
 
 
 
-##### q2:
+####  Q3:
+
+
+
+
+#### Q4:
+
+
 
 
 
