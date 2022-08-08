@@ -55,6 +55,8 @@ Error: total Listed 131 kids died from BAC but it was 132 as the light pink cell
 
 Second, I duplicated spreadsheet to clean up any errors 
 
+After that I color coded the excel sheet for relevant data
+
 Then, I added a row below the three age groups to find the sum
 =sum (B4:B6) dragged horizontally 
 
