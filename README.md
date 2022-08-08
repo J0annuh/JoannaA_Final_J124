@@ -41,6 +41,14 @@ Answer: 3.41% children (1239 deaths)
 
 
 #### Q2: On accidents with children involved, how many were alcohol related
+
+
+
+<img width="618" alt="q2sheet" src="https://user-images.githubusercontent.com/109833009/183455750-a155337b-e6aa-4a2b-b710-0c071fcc3fb0.PNG">
+
+
+
+
 I analyzed data, realized there was one error, the data was miscalculated in  People Killed, by Age Group and Highest Driver Blood Alcohol Concentration (BAC) in the Crash, 2019	
 
 Error: total Listed 131 kids died from BAC but it was 132 as the light pink cells sum up to 132
@@ -54,6 +62,9 @@ After that, similarly to my previous calculation, I divided the sum of anyone wh
 
 I found that 24.37% of children deaths were alcohol related and 252 of the 302 were above the legal limit (.08)
 
+
+
+<img width="709" alt="q2howto" src="https://user-images.githubusercontent.com/109833009/183455836-a883a7df-4b51-4356-9b00-7a6ca8086d6a.PNG">
 
 
 
