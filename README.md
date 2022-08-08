@@ -7,7 +7,20 @@ Every year, hundreds of children die due to vehicular accidents. A lot of these 
 
 In 2019, there was *1239 deaths* of children between <5-15 years old. The data for this project provided 10 age groups with an eleventh being for individuals of an unknown age. In California alone, there was 104 deaths of children between <5-15 years old, making up a total of 8.4% of the nation's deaths for these ages due to vehicular accidents. 
 
+For this assignment, I used Traffic Safety Annual Reports by the National Highway Traffic Safety Administration. I chose the year 2019 because it was the year before the pandemic started. Since people weren't really driving in 2020 and early 2021 due to lockdown restrictions, 2019 was the last year with data following a similar pattern to years prior. 
 
+#### Sources/Potential Interviewees
+***Frank Cruz (Father of Zachary Cruz)*** 
+
+Frank Cruz established Zachary Michael Cruz Foundation in 2010 to keep the memory of Zachary alive. Every year, the foundation awards two UC Berkeley transfer students the Zachary Cruz Memorial Scholarship. 
+
+Contact Info: info@zmcfoundation.org
+
+![zachcruz](https://user-images.githubusercontent.com/109833009/183459054-fc0be386-9f84-4e46-ad80-8c1898dd0140.png)
+
+
+***Caileb Sioxson-Ramirez***  _Vehicle Safety Research (NSR) Intern at NHTSA_ 
+Contact Info: https://www.linkedin.com/in/caileb-sioxson-ramirez-40715422a/
 
 
 ### Anaysis
@@ -88,6 +101,8 @@ I found that 24.37% of children deaths were alcohol related and 252 of the 302 w
 
 
 ### Data Visualization
+
+I decided to use a bar chart and split bars to best visualize this data
 
 ![N4WvY-fatal-vehicular-accident-victims-by-age-groups](https://user-images.githubusercontent.com/109833009/183457554-0a56b6f5-e10c-475e-817b-b811c293220f.png)
 
