@@ -84,22 +84,36 @@ I found that 24.37% of children deaths were alcohol related and 252 of the 302 w
 
 
 
-####  Q3:
+####  Q3: Q3: What % of children killed by vehicular accidents were occupants in the car
+
 
 <img width="668" alt="q3sheet" src="https://user-images.githubusercontent.com/109833009/183457173-7fe2c657-71e5-4841-9723-84549fadacb1.PNG">
+
+I found that 937 occupants died (inside)
+
+In order to find that, I got the total the people provided 
+
+302 nonoccupants were struck
 
 
 
 <img width="677" alt="q3howto" src="https://user-images.githubusercontent.com/109833009/183457223-d3dcfc2f-7530-46b4-95c8-100f342274bf.PNG">
 
 
-
-#### Q4:
-
+#### Q4: On a national level, what state saw the most deaths with children, and how does that compare to California’s death rate
 
 
 
+<img width="855" alt="q4" src="https://user-images.githubusercontent.com/109833009/183464531-22596d9d-59ff-42de-9e27-4e378512ba19.PNG">
 
+No calculations needed, 3719 people died in CA to vehicular accidents. 104 were children
+
+
+
+
+<img width="846" alt="q4counta" src="https://user-images.githubusercontent.com/109833009/183464560-07d46b02-1641-4850-a87b-9937d6054edb.PNG">
+
+With counta on a pivot table, I found that Texas was the state with the most child deaths. 124 children died in Texas due to vehicular accidents
 ### Data Visualization
 
 I decided to use a bar chart and split bars to best visualize this data
